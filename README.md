@@ -1,2 +1,2 @@
 # mortality-prediction
- Vertex assignment for employment
+Please open the file `mortality.ipynb` to see instructions.
